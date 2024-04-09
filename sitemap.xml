@@ -2,67 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://example.com/blog/firstpost/</loc>
+		<loc>https://ignaciochavez.com/blog/firstpost/</loc>
 		<lastmod>2018-05-01</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/blog/secondpost/</loc>
+		<loc>https://ignaciochavez.com/blog/secondpost/</loc>
 		<lastmod>2018-07-04</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/blog/thirdpost/</loc>
+		<loc>https://ignaciochavez.com/blog/thirdpost/</loc>
 		<lastmod>2018-08-24</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/blog/fourthpost/</loc>
+		<loc>https://ignaciochavez.com/blog/fourthpost/</loc>
 		<lastmod>2018-09-30</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/blog/fifthpost/</loc>
+		<loc>https://ignaciochavez.com/blog/fifthpost/</loc>
 		<lastmod>2023-01-23</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/about/</loc>
-		<lastmod>2024-04-09</lastmod>
+		<loc>https://ignaciochavez.com/about/</loc>
+		<lastmod>2024-03-31</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/blog/</loc>
-		<lastmod>2024-04-09</lastmod>
+		<loc>https://ignaciochavez.com/blog/</loc>
+		<lastmod>2024-03-31</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/</loc>
-		<lastmod>2024-04-09</lastmod>
+		<loc>https://ignaciochavez.com/</loc>
+		<lastmod>2024-03-31</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/tags/</loc>
-		<lastmod>2024-04-09</lastmod>
+		<loc>https://ignaciochavez.com/tags/</loc>
+		<lastmod>2024-03-31</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/tags/another-tag/</loc>
-		<lastmod>2024-04-09</lastmod>
+		<loc>https://ignaciochavez.com/tags/another-tag/</loc>
+		<lastmod>2024-03-31</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/tags/number-2/</loc>
-		<lastmod>2024-04-09</lastmod>
+		<loc>https://ignaciochavez.com/tags/number-2/</loc>
+		<lastmod>2024-03-31</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/tags/second-tag/</loc>
-		<lastmod>2024-04-09</lastmod>
+		<loc>https://ignaciochavez.com/tags/second-tag/</loc>
+		<lastmod>2024-03-31</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/tags/posts-with-two-tags/</loc>
-		<lastmod>2024-04-09</lastmod>
+		<loc>https://ignaciochavez.com/tags/posts-with-two-tags/</loc>
+		<lastmod>2024-03-31</lastmod>
 	</url>
 </urlset>
